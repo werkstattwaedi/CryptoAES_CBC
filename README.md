@@ -1,4 +1,15 @@
 
+Arduino AES CBC Library
+============================
+
+Forked from rweather/arduinolibs and modified to work not only on Arduino, but on ESP8266 as well.
+- Renamed `Crypto.h` to `CryptoAES_CBC` to solve a name conflict with ESP8266 core (since core v2.7.0).
+- Joined Crypto and CryptoLegacy libs together and removed algorithms other than AES CBC.
+
+----------
+#### Original README.MD from forked repository
+----------
+
 Arduino Cryptography Library
 ============================
 
