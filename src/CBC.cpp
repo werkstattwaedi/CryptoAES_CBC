@@ -21,7 +21,7 @@
  */
 
 #include "CBC.h"
-#include "Crypto.h"
+#include "CryptoAES_CBC.h"
 #include <string.h>
 
 /**

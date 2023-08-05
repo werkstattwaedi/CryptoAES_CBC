@@ -20,8 +20,8 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-#ifndef CRYPTO_h
-#define CRYPTO_h
+#ifndef CRYPTOAES_CBC_h
+#define CRYPTOAES_CBC_h
 
 #include <inttypes.h>
 #include <stddef.h>

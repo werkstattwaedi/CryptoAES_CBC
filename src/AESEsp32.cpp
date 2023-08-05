@@ -21,7 +21,7 @@
  */
 
 #include "AES.h"
-#include "Crypto.h"
+#include "CryptoAES_CBC.h"
 #include <string.h>
 
 // AES implementation for ESP32 using the hardware crypto module.

@@ -24,7 +24,7 @@
 This example runs tests on the small AES implementation to verify behaviour.
 */
 
-#include <Crypto.h>
+#include <CryptoAES_CBC.h>
 #include <AES.h>
 #include <string.h>
 

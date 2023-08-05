@@ -25,7 +25,7 @@ In Arduino serial monitor text appears to be non readable characters, but if you
 Example contributor: Aswin
 */
 
-#include <Crypto.h>
+#include <CryptoAES_CBC.h>
 #include <AES.h>
 #include <string.h>
 

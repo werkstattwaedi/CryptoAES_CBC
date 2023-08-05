@@ -21,7 +21,7 @@
  */
 
 #include "AES.h"
-#include "Crypto.h"
+#include "CryptoAES_CBC.h"
 #include "utility/ProgMemUtil.h"
 
 #if defined(CRYPTO_AES_DEFAULT) || defined(CRYPTO_DOC)
